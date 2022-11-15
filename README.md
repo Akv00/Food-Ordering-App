@@ -1,7 +1,7 @@
 # Food-Ordering-App
 Project - Responsive Food ordering app
 
-Author - Anant Gwari (https://github.com/Akv00)
+Author - Abhishek Kumar Verma(https://github.com/Akv00)
 
 Video Demonstration - https://youtube.com/shorts/1lvzXPwvbCw
 
