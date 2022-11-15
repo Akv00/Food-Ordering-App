@@ -3,7 +3,6 @@ Project - Responsive Food ordering app
 
 Author - Abhishek Kumar Verma(https://github.com/Akv00)
 
-Video Demonstration - https://youtube.com/shorts/1lvzXPwvbCw
 
 Language - JAVA
 
